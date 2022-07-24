@@ -9,16 +9,52 @@
 
 ---------
 
+<p align="left">
+𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘
+<p align="left">
+• 𝙼𝚢 𝙽𝚊𝚖𝚎 : ᴊᴇᴏʟ 😉
+<p align="left">
+• 𝙰𝚐𝚎 : 14
+<p align="left">
+• 𝙿𝚕𝚊𝚌𝚎 : ᴇʀɴᴀᴋᴜʟᴀᴍ
+<p align="left">
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : 𝙼𝚊𝚕𝚊𝚢𝚊𝚕𝚊𝚖
+<p align="left">
+• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 9ᴛʜ ꜱᴛᴀɴᴅᴀʀᴅ
+<p align="left">
+- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-    <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=1572b6" />
-<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php" />
-<img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
-
----------
-
+<img src="https://github-stats-alpha.vercel.app/api/?username=jeolpaul&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeolpaul&&show_icons=true&theme=midnight-purple" alt="JEOLPAUL"/></p>        
+ 
+<p align="center">
+Used Languages 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
+
+
+🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+ 
+<p align="center">
+<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
+<img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
+</p>
+
+
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
+<a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
+
+<b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
+
+<img width="50%" src="https://gpvc.arturio.dev/jeolpaul" alt="Profile views" />
+
+
+
 
 
   ### My statistic
@@ -46,18 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=Jeolpaul&label=VIEWS&style=flat-square&color=blue" />
 </p>
 
-```js
 
-var bio = `
-
-Name: Jeol
-From: India
-Age: 15
-Currently learning: py,
-`
-return bio
-
-
-// 📔🎐🐦
-
-```
