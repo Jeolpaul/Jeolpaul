@@ -36,18 +36,19 @@
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeolpaul&label=VIEWS&style=flat-square&color=blue" />
+</p>
 
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
  
 <p align="center">
-<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
-<img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
+<img width="13%" src="https://telegra.ph/file/781f039ef9eb7490b2d89.jpg" />
 </p>
 
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
-<a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
 
 <b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
@@ -57,29 +58,6 @@ Used Languages
 
 
 
-  ### My statistic
 
-<p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=Jeolpaul&theme=tokyonight&show_icons=true" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jeolpaul"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lord-official&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/Jeolpaul"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/Rlxfly"><img src="https://github-profile-trophy.vercel.app/?username=Jeolpaul&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
-</p>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jeolpaul&theme=monokai)
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeolpaul&label=VIEWS&style=flat-square&color=blue" />
-</p>
 
 
