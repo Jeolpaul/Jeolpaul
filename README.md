@@ -3,9 +3,10 @@
 </p>
 
 ---------
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_je_ol_?igshid=YmMyMTA2M2Y=)
- [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/JP_Jeol)
+ [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_je_ol_?igshid=YmMyMTA2M2Y=)
+ [![Telegram](https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/TG_BI_CH)
 
 ---------
 
@@ -36,9 +37,7 @@
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeolpaul&layout=compact&theme=tokyonight" align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeolpaul&label=VIEWS&style=flat-square&color=blue" />
-</p>
+
 
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
  
